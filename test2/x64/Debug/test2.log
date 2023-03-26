@@ -1,0 +1,5 @@
+﻿  main.cpp
+  test.cpp
+  TicketMachine.cpp
+E:\drc\c++\wkcpp\test2\TicketMachine.cpp(26,18): error C2563: mismatch in formal parameter list
+  Generating Code...
